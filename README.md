@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PT. Bringin Gigantara - BRICASH
-- 🌱 I’m currently learning JavaScript and Python
-- 👯 I’m looking to collaborate on JavaScript Frameworks
-- 🤔 I’m looking for help with Python Machine Learning
+- 🔭 Currently working on PT. Bringin Gigantara - BRICASH
+- 🌱 Learning JavaScript and Python
+- 👯 Looking to collaborate on JavaScript Frameworks
+- 🤔 Looking for help with Python Machine Learning
 - 💬 Ask me about Laravel
-- 💕 I'm currently fall in love with `Vue.Js` and Laravel
+- 💕 Currently fall in love with `Vue.Js` and Laravel
 - 📫 How to reach me: hamidmsukardi@gmail.com
 - 😄 Pronouns: English and Japanese
