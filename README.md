@@ -5,11 +5,11 @@
 Here are some ideas to get you interest:
 
 - 🔭 Currently working on PT. Bringin Gigantara - BRICASH
-- 🌱 Learning JavaScript and Python
-- 👯 Looking to collaborate on `JavaScript Frameworks`
+- 🌱 Learning Python and Solidity
+- 👯 Looking to collaborate on `Anbi Developer`
 - 🤔 Looking for help with Python Machine Learning
-- 💬 Ask me about Laravel
-- 💕 Currently fall in love with `Vue.Js` and `Laravel`
+- 💬 Ask me about Blockchain
+- 💕 Currently fall in love with `Blockchain` and `Artifical Intellegence`
 - 📫 How to reach me: hamidmsukardi@gmail.com
 - 😄 Pronouns: English and Japanese
 
