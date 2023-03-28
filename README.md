@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=hamidms&show_icons=true)
-![](https://komarev.com/ghpvc/?username=hamidms)
 
 Here are some ideas to get you interest:
 
